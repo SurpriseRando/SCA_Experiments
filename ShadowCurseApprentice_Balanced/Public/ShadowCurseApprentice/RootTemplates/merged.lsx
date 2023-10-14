@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save> 
+	<version major="4" minor="0" revision="6" build="47" /> 
+	<region id="Templates">
+		<node id="Templates">
+			<children>	
+				<node id="GameObjects"> 
+					<attribute id="Description" type="TranslatedString" handle="hfd84bf20g1383g4218ga124g4dd70516d639" version="2" /> 
+					<attribute id="DisplayName" type="TranslatedString" handle="h30b7d059g9973g46b2g9187g1eb5b031b97d" version="3" /> 		
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="520bdaeb-b9e0-4ce7-af06-3a3af1fe2ed2" /> 
+					<attribute id="Name" type="LSString" value="SCA_ShadowCurse_Ring" /> 
+					<attribute id="ParentTemplateId" type="FixedString" value="ecf4a8a4-7859-4a82-8c08-0c9526f29500" /> 
+					<attribute id="Stats" type="FixedString" value="SCA_ShadowCurse_Ring" /> 
+					<attribute id="Type" type="FixedString" value="item" />
+					<children>
+						<node id="GameMaster" />
+					</children>		
+				</node>
+                <node id="GameObjects"> 
+					<attribute id="Description" type="TranslatedString" handle="h0b56562ag785eg4fcagbd41g64719a1bdd76" version="2" /> 
+					<attribute id="DisplayName" type="TranslatedString" handle="haa468756geff0g4232g861fg5d93dde54303" version="3" /> 		
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="ecc71967-ecb0-412c-9c56-bafad2aa108a" /> 
+					<attribute id="Name" type="LSString" value="SCA_ShadowCurse_Lord_Ring" /> 
+					<attribute id="ParentTemplateId" type="FixedString" value="ecf4a8a4-7859-4a82-8c08-0c9526f29500" /> 
+					<attribute id="Stats" type="FixedString" value="SCA_ShadowCurse_Lord_Ring" /> 
+					<attribute id="Type" type="FixedString" value="item" />
+					<children>
+						<node id="GameMaster" />
+					</children>		
+				</node>					
+			</children>
+		</node>
+	</region>
+</save>
